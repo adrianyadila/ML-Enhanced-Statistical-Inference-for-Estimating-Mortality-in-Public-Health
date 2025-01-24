@@ -1,0 +1,2 @@
+# ML-Enhanced-Statistical-Inference-for-Estimating-Mortality-in-Public-Health
+This study applies machine learning, particularly neural networks, to analyze the impact of selected variables on mortality rates. Building on prior EFA-based analyses, it compares machine learning algorithms with traditional methods like multiple linear regression to create a model estimating mortality using environmental variables.
